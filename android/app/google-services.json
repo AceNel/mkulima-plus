@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "751021380246",
+    "firebase_url": "https://mkulimaplus-bacf0.firebaseio.com",
+    "project_id": "mkulimaplus-bacf0",
+    "storage_bucket": "mkulimaplus-bacf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751021380246:android:907b3949d694ca80",
+        "android_client_info": {
+          "package_name": "com.example.mkulimaplussplashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751021380246-hlghviqg7b7j0eattjmevhuin2k54sr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mkulimaplussplashscreen",
+            "certificate_hash": "1025be006f1926f3554f6bce38b5d3a6a1862687"
+          }
+        },
+        {
+          "client_id": "751021380246-233flk63d7tcrlaajqpmncm1hrnagkle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLBK07XxO78D8cG_yNTlxXw9ZUfA9dZMY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751021380246-233flk63d7tcrlaajqpmncm1hrnagkle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
